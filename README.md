@@ -13,7 +13,7 @@ My name is Vinh!
 ---
 
 ### 🏗️ Recent Projects
-- [KTBB](https://killthebigbad.herokuapp.com/) | [GitHub Repo](https://github.com/CapstoneTeamXI/KTBB) | An online single player arcard dungeon game - CAPSTONE project at Fullstack Academy.
+- [KTBB](https://killthebigbad.herokuapp.com/) | [GitHub Repo](https://github.com/CapstoneTeamXI/KTBB) | An online single player arcarde dungeon game - CAPSTONE project at Fullstack Academy.
   - Designed and developed in TypeScript, integrated React/Redux with Phaser game engine to manage the state and logic of the gameplay, which consists of a multi-level battle between the player and the enemies, used Express and PostgreSQL in backend to store player’s high score and time to win the game.
 
 - [Pawty City](https://pawty-city.herokuapp.com/) | [GitHub Repo](https://github.com/Oshawott-Action-Team/Grace-Shopper) | A web application features an e-commerce site selling dog's costume - Group project at Fullstack Academy.
