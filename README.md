@@ -2,7 +2,8 @@
 
 My name is Vinh!
 - :computer: I'm a fullstack developer graduated from Fullstack Academy in NYC.
-- :rocket: I’m currently learning **JavaScript** with experience in the **PERN** stack (PostgreSQL, Express, React, NodeJS) and exploring other stacks and technologies in web & app development.
+- :rocket: I’m currently learning **JavaScript** with experience in the **PERN** stack (PostgreSQL, Express, React, NodeJS) for web development.
+- :rocket: I'm also exploring other languages, stacks and technologies in mobile app development, such as Swift & SwiftUI (for iOS development), Java/Kotlin (for Android development).
 - :earth_americas: Prior moving to the US :us: and entering to the software engineer journey, I worked as a business data analyst at TotalEnergies for 4 years and software solution architect at Envision Digital for 1 year in Singapore :singapore:
 - :rainbow: Background in Electrical and Computer Engineering, I have a strong interest in problem solving, ranging from business problems to technical problems. My work experiences cultivated my collaboration skills, working together with different stakeholders in order to reach the best solution for a sharing ultimate goal! 
 
