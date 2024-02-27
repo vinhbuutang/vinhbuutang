@@ -14,6 +14,9 @@ My name is Vinh!
 ---
 
 ### 🏗️ Recent Projects
+- [Little Lemon] | [GitHub Repo] () | A native Android - CAPSTONE project for the Android App Capstone on Coursera.
+  - Designed with Figma and developed in Kotlin, using Jetpack Compose for the UI layer, Ktor for networking and Room for local database. The App displays a simple user onboarding process, fetchs the restaurant menu from the remote server and saved the data on the device. User can filter the menu by category, and search for the name of the dishes.
+
 - [KTBB](https://killthebigbad.herokuapp.com/) | [GitHub Repo](https://github.com/CapstoneTeamXI/KTBB) | An online single player arcarde dungeon game - CAPSTONE project at Fullstack Academy.
   - Designed and developed in TypeScript, integrated React/Redux with Phaser game engine to manage the state and logic of the gameplay, which consists of a multi-level battle between the player and the enemies, used Express and PostgreSQL in backend to store player’s high score and time to win the game.
 
